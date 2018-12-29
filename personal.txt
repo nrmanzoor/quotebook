@@ -3,4 +3,4 @@ This is second personal quote.
 Should go to the remote.
 Added directly from the github.
 Testing Stash on local repository.
-Testing Stash2.
+Test Stach on local.
