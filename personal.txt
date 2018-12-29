@@ -2,3 +2,4 @@ This is frist personal quote.
 This is second personal quote.
 Should go to the remote.
 Added directly from the github.
+Testing Stash on local repository.
